@@ -18,7 +18,7 @@ REM see www.gnu.org/licenses
 
 
 REM ================= ABOUT THE PROGRAM =================
-REM This program is Created by Kvc at 'Wed 01/06/2021 - 19:25'
+REM This program is Created by anic17 at 'Wed 01/06/2021 - 19:25'
 REM This program can A plugin to update environment settings without rebooting.
 REM For More Visit: www.batch-man.com
 
